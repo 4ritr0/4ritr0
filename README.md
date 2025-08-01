@@ -66,5 +66,5 @@
 
 ---
 
-> *“Journeys begin with the version of it your brain has drafted.”*
+> *“Journeys begin with the version that your brain has drafted.”*
 
