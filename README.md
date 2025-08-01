@@ -11,9 +11,9 @@
 - 🎓 I'm a final-year engineering student passionate about **Data Science**, **Machine Learning**, and **AI research**.
 - 🧠 I **love** turning complex datasets into meaningful insights.
 - 🛠️ Experienced as a <strong>Platform Engineer</strong>, focusing on **cloud infra** and **CI/CD automation**.
-- 💼 I've worked on automating **build** and **change** management workflows using <strong>GitHub Actions.</strong>
-- 🎸 Additionally, I do play the guitar and some table tennis too 🏓.
-- ^_^ Feel free to rach out!
+- 💼 I've worked on streamlining **build** and **change** management workflows using <strong>GitHub Actions.</strong>
+- 🎸 Additionally, I do play the guitar and some table tennis 🏓.
+- ^_^ Feel free to reach out!
 
 ---
 
